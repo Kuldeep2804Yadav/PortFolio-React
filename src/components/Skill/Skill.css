@@ -1,0 +1,11 @@
+#skill {
+  padding: 20px;
+  height: 720px;
+  width: 100%;
+}
+#skill h2 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: white;
+  font-weight: bolder;
+}

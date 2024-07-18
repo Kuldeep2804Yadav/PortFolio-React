@@ -1,0 +1,35 @@
+
+.skill-bar {
+  margin: 10px 10px;
+  height: fit-content;
+  width: 50%;
+  margin: auto;
+ 
+}
+
+.skill-name {
+  font-weight: bolder;
+  margin-bottom: 5px;
+  color: white;
+  margin-top: 10px;
+}
+
+.bar-container {
+  background-color: #e0e0df;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.bar {
+  background-color: #76c7c0;
+  height: 25px;
+  line-height: 25px;
+  color: white;
+  text-align: right;
+  padding-right: 10px;
+  border-radius: 25px;
+}
+
+.percentage {
+  font-weight: bold;
+}

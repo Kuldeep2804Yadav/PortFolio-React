@@ -1,0 +1,38 @@
+.projectDetails {
+    height: 520px;
+    width: 360px;
+    
+    
+}
+
+.header {
+  
+    text-align: center;
+    justify-content: center;
+}
+
+.header h3 {
+    padding-top: 6px;
+   background-color: aquamarine;
+    height: 30px;
+    width: 100%; 
+    margin: 0; 
+}
+
+.contentImage {
+    width: 100%;
+    height: 300px;
+    display: block; 
+    margin: 0 auto; 
+    object-fit:inherit;
+    border-top: 3px solid red;
+    
+}
+
+.description {
+    width: 100%;
+    height: calc(100% - 50px - 250px);
+    padding: 10px;
+    color: white;
+    font-size: 13px;
+}
